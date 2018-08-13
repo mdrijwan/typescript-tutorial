@@ -1,0 +1,26 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "A concise tutorial for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrijwan/typescript-tutorial.git"
+  },
+  "author": "Md Rijwan Razzaq Matin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdrijwan/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/mdrijwan/typescript-tutorial#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}
